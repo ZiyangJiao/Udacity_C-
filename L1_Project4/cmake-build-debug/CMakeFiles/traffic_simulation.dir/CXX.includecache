@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ziyangjiao/CLionProjects/L1_Project4/src/TrafficObject.cpp
+iostream
+-
+chrono
+-
+TrafficObject.h
+/Users/ziyangjiao/CLionProjects/L1_Project4/src/TrafficObject.h
+
+/Users/ziyangjiao/CLionProjects/L1_Project4/src/TrafficObject.h
+vector
+-
+thread
+-
+

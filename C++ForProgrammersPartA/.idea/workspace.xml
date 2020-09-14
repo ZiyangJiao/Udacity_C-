@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="C__ForProgrammersPartA" targetName="class2dot10" />
+      <config projectName="C__ForProgrammersPartA" targetName="assignment1dot6" />
+      <config projectName="C__ForProgrammersPartA" targetName="enum_overload2dot8" />
+      <config projectName="C__ForProgrammersPartA" targetName="C__ForProgrammersPartA" />
+      <config projectName="C__ForProgrammersPartA" targetName="template1dot10" />
+      <config projectName="C__ForProgrammersPartA" targetName="Dijkstra" />
+      <config projectName="C__ForProgrammersPartA" targetName="is_connected3dot5" />
+      <config projectName="C__ForProgrammersPartA" targetName="prim" />
+      <config projectName="C__ForProgrammersPartA" targetName="vector4dot10" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28bc15c5-4904-4b87-9740-b62305c05a39" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1dmuVrokhVkRsw86C2BggspH3nk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.class2dot10">
+    <configuration name="C__ForProgrammersPartA" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C__ForProgrammersPartA" TARGET_NAME="C__ForProgrammersPartA" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C__ForProgrammersPartA" RUN_TARGET_NAME="C__ForProgrammersPartA">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dijkstra" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C__ForProgrammersPartA" TARGET_NAME="Dijkstra" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C__ForProgrammersPartA" RUN_TARGET_NAME="Dijkstra">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignment1dot6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C__ForProgrammersPartA" TARGET_NAME="assignment1dot6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C__ForProgrammersPartA" RUN_TARGET_NAME="assignment1dot6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="class2dot10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C__ForProgrammersPartA" TARGET_NAME="class2dot10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C__ForProgrammersPartA" RUN_TARGET_NAME="class2dot10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="enum_overload2dot8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C__ForProgrammersPartA" TARGET_NAME="enum_overload2dot8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C__ForProgrammersPartA" RUN_TARGET_NAME="enum_overload2dot8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_connected3dot5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C__ForProgrammersPartA" TARGET_NAME="is_connected3dot5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C__ForProgrammersPartA" RUN_TARGET_NAME="is_connected3dot5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prim" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C__ForProgrammersPartA" TARGET_NAME="prim" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C__ForProgrammersPartA" RUN_TARGET_NAME="prim">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="template1dot10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C__ForProgrammersPartA" TARGET_NAME="template1dot10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C__ForProgrammersPartA" RUN_TARGET_NAME="template1dot10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vector4dot10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C__ForProgrammersPartA" TARGET_NAME="vector4dot10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C__ForProgrammersPartA" RUN_TARGET_NAME="vector4dot10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.assignment1dot6" />
+      <item itemvalue="CMake Application.C__ForProgrammersPartA" />
+      <item itemvalue="CMake Application.class2dot10" />
+      <item itemvalue="CMake Application.Dijkstra" />
+      <item itemvalue="CMake Application.enum_overload2dot8" />
+      <item itemvalue="CMake Application.is_connected3dot5" />
+      <item itemvalue="CMake Application.prim" />
+      <item itemvalue="CMake Application.template1dot10" />
+      <item itemvalue="CMake Application.vector4dot10" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28bc15c5-4904-4b87-9740-b62305c05a39" name="Default Changelist" comment="" />
+      <created>1593042615265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593042615265</updated>
+      <workItem from="1593042618201" duration="1140000" />
+      <workItem from="1593115650703" duration="909000" />
+      <workItem from="1593282129753" duration="2963000" />
+      <workItem from="1593727790744" duration="5599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
